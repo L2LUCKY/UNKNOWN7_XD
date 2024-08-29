@@ -24,6 +24,8 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/+R2Ec5wk0E3RhN2Zl"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/LuckyXSupport"><img src="https://img.shields.io/badge/Join-Telegram%40Group-red.svg?logo=Telegram"></a>
+
+<a href="https://t.me/Luckyxupdate"><img src="https://img.shields.io/badge/Join-Telegram%40Channel-red.svg?logo=Telegram"></a>
 
 </details>
