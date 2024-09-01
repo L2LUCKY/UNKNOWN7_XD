@@ -11,7 +11,9 @@ START_BUTTON = [
         Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/Luckyxupdate"),
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/LuckyxSupport")
     ],
-    
+    [
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/The-LuckyX/LuckyXSpam/fork")
+    ]
 ]
 
 
