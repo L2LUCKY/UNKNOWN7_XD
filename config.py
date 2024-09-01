@@ -27,7 +27,7 @@ BOT_TOKEN8 = getenv("BOT_TOKEN8", default="7532621253:AAF5ti8vGCZ02FKhp40EQFdNrq
 BOT_TOKEN9 = getenv("BOT_TOKEN9", default="7394984131:AAGUrJ5LQT6Kamuz16gLrDc0ySoYX_4-1W4")
 BOT_TOKEN10 = getenv("BOT_TOKEN10", default="7218398498:AAFoXyu0LdTT55UofUb0iJXOR81tnOMtg1I")
 
-SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="7233676524", "7496704336", "7095028493").split()))
+SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="7233676524").split()))
 for x in ALTRON:
     SUDO_USERS.append(x)
 OWNER_ID = int(getenv("OWNER_ID", default="7189651838"))
